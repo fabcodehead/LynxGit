@@ -1,6 +1,7 @@
 # LynxGit
 Practice repo
-
+Chnages made by, Aditya
+Finally added the files
 <<<<<<< HEAD
 <<<<<<< HEAD
 Changes added
