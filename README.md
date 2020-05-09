@@ -16,7 +16,7 @@ Vaulstein
 Hello world!!!
 #changes added by 
 prasanna
-hi everyone
+hi one and all
 <<<<<<< HEAD
 >>>>>>> a6a253c00bc1105bee9968145fb6722c6038baa7
 =======
