@@ -14,7 +14,7 @@ Hey Vector! This is JULIA!
 # Changes added by
 Vaulstein
 Hello world!!!
-#changes added by 
+#changes added by
 prasanna
 hi one and all
 <<<<<<< HEAD
@@ -22,3 +22,5 @@ hi one and all
 =======
 
 >>>>>>> 87389f99e0329be95eb16ad6a037af6e64f23c46
+Changes made by Aditya,
+Finally able to do This
